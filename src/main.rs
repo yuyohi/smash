@@ -1,5 +1,5 @@
-use tracing_subscriber::{self, fmt, prelude::*, EnvFilter};
 use event::SmashState;
+use tracing_subscriber::{self, fmt, prelude::*, EnvFilter};
 
 mod event;
 
